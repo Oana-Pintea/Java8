@@ -1,0 +1,4 @@
+nume1,prenume1,1992-02-03
+nume3,prenume3,1998-02-03
+nume4,prenume4,1997-02-03
+nume5,prenume5,1995-02-03

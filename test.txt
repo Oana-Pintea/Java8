@@ -1,0 +1,5 @@
+Lica,Furnica,1992-02-03
+Gia,Gaita,2001-01-18
+Oachi,Broscoiul,1998-02-03
+Didi,Omida,1997-02-03
+Tigrisorul,Timmi,1995-02-03
